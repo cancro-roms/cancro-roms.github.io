@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+### 免责声明：刷机有风险，请谨慎考虑。如果您的手机刷入本站的ROM之后变砖，本站不承担任何责任。
+### 本站刷机资源仅供学习交流使用，请于下载后24小时内自行删除。
 
 You can use the [editor on GitHub](https://github.com/cancro-roms/cancro-roms.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
